@@ -1,4 +1,4 @@
-SDA: Project
+Triple Ten SDA: Project
 
 Project description
 
